@@ -4,82 +4,90 @@
     "url": "https://aysbusinessmoves.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/aysbusinessmoves.co.uk.ico",
     "slug": "ays-business-moves",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 779,
     "timeDay": 741,
     "timeWeek": 776,
     "timeMonth": 779,
     "timeYear": 779,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-06": 3
+    }
   },
   {
     "name": "KJM Ceremonies",
     "url": "https://kjmceremonies.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/kjmceremonies.co.uk.ico",
     "slug": "kjm-ceremonies",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 841,
     "timeDay": 839,
     "timeWeek": 868,
     "timeMonth": 841,
     "timeYear": 841,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-06": 2
+    }
   },
   {
     "name": "Romsey Area Information Network",
     "url": "https://romseyareainfo.net/",
     "icon": "https://icons.duckduckgo.com/ip3/romseyareainfo.net.ico",
     "slug": "romsey-area-information-network",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 735,
     "timeDay": 773,
     "timeWeek": 723,
     "timeMonth": 735,
     "timeYear": 735,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-06": 2
+    }
   },
   {
     "name": "The London Aikdo Club",
     "url": "https://thelondonaikidoclub.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/thelondonaikidoclub.co.uk.ico",
     "slug": "the-london-aikdo-club",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 664,
     "timeDay": 639,
     "timeWeek": 654,
     "timeMonth": 664,
     "timeYear": 664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-06": 1
+    }
   },
   {
     "name": "The Yellow Cottage",
     "url": "https://theyellowcottage.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/theyellowcottage.co.uk.ico",
     "slug": "the-yellow-cottage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 839,
@@ -87,16 +95,18 @@
     "timeWeek": 869,
     "timeMonth": 839,
     "timeYear": 839,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-06": 1
+    }
   },
   {
     "name": "Sandspur",
     "url": "https://sandspur.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/sandspur.co.uk.ico",
     "slug": "sandspur",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +115,8 @@
     "timeWeek": 841,
     "timeMonth": 794,
     "timeYear": 794,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-06": 0
+    }
   }
 ]
