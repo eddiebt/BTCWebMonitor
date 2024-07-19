@@ -4,18 +4,19 @@
     "url": "https://aysbusinessmoves.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/aysbusinessmoves.co.uk.ico",
     "slug": "ays-business-moves",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 803,
     "timeDay": 697,
     "timeWeek": 716,
     "timeMonth": 803,
     "timeYear": 803,
     "dailyMinutesDown": {
+      "2024-07-19": 3,
       "2024-07-16": 25
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://kjmceremonies.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/kjmceremonies.co.uk.ico",
     "slug": "kjm-ceremonies",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 831,
     "timeDay": 625,
     "timeWeek": 728,
     "timeMonth": 831,
     "timeYear": 831,
     "dailyMinutesDown": {
+      "2024-07-19": 2,
       "2024-07-16": 25
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://romseyareainfo.net/",
     "icon": "https://icons.duckduckgo.com/ip3/romseyareainfo.net.ico",
     "slug": "romsey-area-information-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.74%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 788,
@@ -56,6 +58,7 @@
     "timeMonth": 788,
     "timeYear": 788,
     "dailyMinutesDown": {
+      "2024-07-19": 2,
       "2024-07-16": 24
     }
   },
@@ -64,10 +67,10 @@
     "url": "https://thelondonaikidoclub.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/thelondonaikidoclub.co.uk.ico",
     "slug": "the-london-aikdo-club",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 695,
@@ -76,6 +79,7 @@
     "timeMonth": 695,
     "timeYear": 695,
     "dailyMinutesDown": {
+      "2024-07-19": 1,
       "2024-07-16": 24
     }
   },
@@ -84,10 +88,10 @@
     "url": "https://theyellowcottage.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/theyellowcottage.co.uk.ico",
     "slug": "the-yellow-cottage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
     "time": 824,
@@ -96,6 +100,7 @@
     "timeMonth": 824,
     "timeYear": 824,
     "dailyMinutesDown": {
+      "2024-07-19": 1,
       "2024-07-16": 23
     }
   },
@@ -104,9 +109,9 @@
     "url": "https://sandspur.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/sandspur.co.uk.ico",
     "slug": "sandspur",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -116,6 +121,7 @@
     "timeMonth": 764,
     "timeYear": 764,
     "dailyMinutesDown": {
+      "2024-07-19": 0,
       "2024-07-16": 23
     }
   }
