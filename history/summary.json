@@ -24,9 +24,9 @@
     "url": "https://kjmceremonies.co.uk/",
     "icon": "https://icons.duckduckgo.com/ip3/kjmceremonies.co.uk.ico",
     "slug": "kjm-ceremonies",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
@@ -36,6 +36,7 @@
     "timeMonth": 818,
     "timeYear": 817,
     "dailyMinutesDown": {
+      "2024-07-30": 0,
       "2024-07-16": 25
     }
   },
