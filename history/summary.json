@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 802,
-    "timeDay": 740,
-    "timeWeek": 755,
+    "time": 805,
+    "timeDay": 1104,
+    "timeWeek": 815,
     "timeMonth": 816,
-    "timeYear": 802,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2024-07-16": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 829,
-    "timeDay": 755,
-    "timeWeek": 794,
-    "timeMonth": 826,
-    "timeYear": 829,
+    "time": 831,
+    "timeDay": 1070,
+    "timeWeek": 852,
+    "timeMonth": 822,
+    "timeYear": 831,
     "dailyMinutesDown": {
       "2024-07-16": 25
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/romseyareainfo.net.ico",
     "slug": "romsey-area-information-network",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 791,
-    "timeDay": 767,
-    "timeWeek": 778,
-    "timeMonth": 809,
-    "timeYear": 791,
+    "uptimeYear": "99.97%",
+    "time": 793,
+    "timeDay": 1124,
+    "timeWeek": 842,
+    "timeMonth": 810,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2024-09-17": 19,
       "2024-07-16": 24
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 692,
-    "timeDay": 646,
-    "timeWeek": 659,
-    "timeMonth": 695,
-    "timeYear": 692,
+    "time": 693,
+    "timeDay": 899,
+    "timeWeek": 716,
+    "timeMonth": 694,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2024-07-16": 24
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
-    "time": 797,
-    "timeDay": 736,
-    "timeWeek": 761,
+    "time": 799,
+    "timeDay": 1099,
+    "timeWeek": 832,
     "timeMonth": 801,
-    "timeYear": 797,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2024-09-17": 27,
       "2024-07-16": 23
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 759,
-    "timeDay": 706,
-    "timeWeek": 831,
+    "time": 760,
+    "timeDay": 955,
+    "timeWeek": 901,
     "timeMonth": 801,
-    "timeYear": 759,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2024-07-16": 23
     }
