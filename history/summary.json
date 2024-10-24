@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/aysbusinessmoves.co.uk.ico",
     "slug": "ays-business-moves",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 801,
-    "timeDay": 622,
-    "timeWeek": 834,
-    "timeMonth": 790,
+    "timeDay": 812,
+    "timeWeek": 818,
+    "timeMonth": 784,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2024-07-16": 25
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 827,
-    "timeDay": 623,
-    "timeWeek": 901,
-    "timeMonth": 815,
+    "timeDay": 736,
+    "timeWeek": 888,
+    "timeMonth": 805,
     "timeYear": 827,
     "dailyMinutesDown": {
       "2024-07-16": 25
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 795,
-    "timeDay": 772,
-    "timeWeek": 854,
-    "timeMonth": 800,
-    "timeYear": 795,
+    "time": 794,
+    "timeDay": 730,
+    "timeWeek": 822,
+    "timeMonth": 790,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2024-09-17": 19,
       "2024-07-16": 24
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 697,
-    "timeDay": 539,
-    "timeWeek": 781,
-    "timeMonth": 710,
-    "timeYear": 697,
+    "time": 698,
+    "timeDay": 731,
+    "timeWeek": 774,
+    "timeMonth": 704,
+    "timeYear": 698,
     "dailyMinutesDown": {
       "2024-07-16": 24
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 795,
-    "timeDay": 626,
-    "timeWeek": 796,
-    "timeMonth": 784,
-    "timeYear": 795,
+    "time": 796,
+    "timeDay": 817,
+    "timeWeek": 778,
+    "timeMonth": 777,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2024-09-17": 27,
       "2024-07-16": 23
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 748,
-    "timeDay": 840,
-    "timeWeek": 806,
-    "timeMonth": 709,
+    "timeDay": 744,
+    "timeWeek": 781,
+    "timeMonth": 705,
     "timeYear": 748,
     "dailyMinutesDown": {
       "2024-07-16": 23
