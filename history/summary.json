@@ -44,9 +44,9 @@
     "url": "https://romseyareainfo.net/",
     "icon": "https://icons.duckduckgo.com/ip3/romseyareainfo.net.ico",
     "slug": "romsey-area-information-network",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -56,6 +56,7 @@
     "timeMonth": 831,
     "timeYear": 809,
     "dailyMinutesDown": {
+      "2024-12-10": 0,
       "2024-09-17": 19,
       "2024-07-16": 24
     }
