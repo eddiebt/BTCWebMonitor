@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 817,
-    "timeDay": 826,
-    "timeWeek": 901,
-    "timeMonth": 852,
+    "timeDay": 781,
+    "timeWeek": 866,
+    "timeMonth": 851,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2024-07-16": 25
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 863,
-    "timeDay": 695,
-    "timeWeek": 904,
-    "timeMonth": 883,
+    "timeDay": 917,
+    "timeWeek": 868,
+    "timeMonth": 887,
     "timeYear": 863,
     "dailyMinutesDown": {
       "2024-07-16": 25
@@ -46,17 +46,16 @@
     "slug": "romsey-area-information-network",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 808,
-    "timeDay": 595,
-    "timeWeek": 856,
-    "timeMonth": 825,
+    "timeDay": 655,
+    "timeWeek": 814,
+    "timeMonth": 823,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2024-12-10": 7,
       "2024-09-17": 19,
       "2024-07-16": 24
     }
@@ -73,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 711,
-    "timeDay": 740,
-    "timeWeek": 798,
-    "timeMonth": 750,
+    "timeDay": 593,
+    "timeWeek": 757,
+    "timeMonth": 746,
     "timeYear": 711,
     "dailyMinutesDown": {
       "2024-07-16": 24
@@ -92,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 813,
-    "timeDay": 829,
-    "timeWeek": 906,
-    "timeMonth": 866,
-    "timeYear": 813,
+    "time": 814,
+    "timeDay": 894,
+    "timeWeek": 881,
+    "timeMonth": 869,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2024-09-17": 27,
       "2024-07-16": 23
@@ -114,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 756,
-    "timeDay": 791,
-    "timeWeek": 827,
-    "timeMonth": 780,
+    "timeDay": 597,
+    "timeWeek": 766,
+    "timeMonth": 777,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2024-07-16": 23
