@@ -6,9 +6,9 @@
     "slug": "ays-business-moves",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.22%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 822,
     "timeDay": 702,
@@ -16,7 +16,7 @@
     "timeMonth": 848,
     "timeYear": 822,
     "dailyMinutesDown": {
-      "2025-01-31": 25,
+      "2025-01-31": 19,
       "2025-01-10": 19,
       "2024-07-16": 25
     }
@@ -28,9 +28,9 @@
     "slug": "kjm-ceremonies",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 859,
     "timeDay": 682,
@@ -38,7 +38,7 @@
     "timeMonth": 854,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2025-01-31": 25,
+      "2025-01-31": 19,
       "2025-01-10": 18,
       "2024-07-16": 25
     }
@@ -50,9 +50,9 @@
     "slug": "romsey-area-information-network",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 797,
     "timeDay": 667,
@@ -60,7 +60,7 @@
     "timeMonth": 779,
     "timeYear": 797,
     "dailyMinutesDown": {
-      "2025-01-31": 23,
+      "2025-01-31": 18,
       "2025-01-10": 18,
       "2024-09-17": 19,
       "2024-07-16": 24
@@ -73,9 +73,9 @@
     "slug": "the-london-aikdo-club",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 721,
     "timeDay": 707,
@@ -83,7 +83,7 @@
     "timeMonth": 761,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2025-01-31": 23,
+      "2025-01-31": 18,
       "2025-01-10": 17,
       "2024-07-16": 24
     }
@@ -95,9 +95,9 @@
     "slug": "the-yellow-cottage",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.49%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.97%",
     "time": 830,
     "timeDay": 677,
@@ -105,7 +105,7 @@
     "timeMonth": 862,
     "timeYear": 830,
     "dailyMinutesDown": {
-      "2025-01-31": 21,
+      "2025-01-31": 17,
       "2025-01-10": 17,
       "2024-09-17": 27,
       "2024-07-16": 23
@@ -118,8 +118,8 @@
     "slug": "sandspur",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 758,
@@ -128,7 +128,7 @@
     "timeMonth": 764,
     "timeYear": 758,
     "dailyMinutesDown": {
-      "2025-01-31": 21,
+      "2025-01-31": 17,
       "2025-01-10": 16,
       "2024-07-16": 23
     }
